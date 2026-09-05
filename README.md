@@ -2,7 +2,7 @@
 
 A web-based tool for creating and visualizing custom CSS box shadows in real time. Easily customize shadow properties through graphic controls and copy the generated CSS code with a single click.
 
-🌐 **Live Demo:** **[https://dragger-box.vercel.app](https://dragger-box.vercel.app)**
+🌐 **Live Demo:** **[https://draggerbox.vercel.app](https://draggerbox.vercel.app)**
 
 ---
 
